@@ -1,2 +1,4 @@
-# personal-portfolio
-My personal portfolio
+# Personal Portfolio
+### Description
+
+My personal portfolio.
